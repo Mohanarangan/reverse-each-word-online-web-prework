@@ -12,7 +12,7 @@ end
 def reverse_each_word(string)
   array.split
   answer_array = []
-  
+  array.collect do
   
 
 
