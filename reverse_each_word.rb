@@ -7,3 +7,15 @@ def reverse_each_word(string)
   answer_array.join(" ")
   
 end
+
+
+
+
+
+
+
+
+
+
+
+
